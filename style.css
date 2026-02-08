@@ -1,0 +1,34 @@
+/* Navbar section start */
+
+.btn{
+   border-color: #F857A6;
+
+}
+
+.color{
+    background-color: #f6f2ff !important;
+}
+/* Navbar section end */
+
+
+/* Hero section start */
+.purple{
+    color: #af53de !important;
+}
+
+.btn{
+    color:black;
+}
+.gradientpurple{
+    background-color: #af53de !important;
+    background-image: linear-gradient(#f6f2ff,#bb93d3, #f6f2ff ) !important;
+}
+
+
+.btncolor{
+    background-color: #af53de !important;
+    color: white !important;
+    background-image: linear-gradient(#5271e7, #8458e8, #6866e7);
+    
+}
+/* Hero section end */
